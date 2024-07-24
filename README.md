@@ -1,2 +1,2 @@
 # Keylogger
-This is a basic jvascript front-end project.
+This is a basic javascript front-end project.
